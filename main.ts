@@ -41,6 +41,8 @@ input.onButtonPressed(Button.B, function () {
             . . # . .
             `)
     }
+    basic.pause(1000)
+    basic.clearScreen()
 })
 let Arrows = 0
 let T_or_D = 0
